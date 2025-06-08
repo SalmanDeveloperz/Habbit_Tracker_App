@@ -1,4 +1,4 @@
-#  Habit Tracker App – Flutter Firebase Project
+#  Habit Tracker App – Flutter Project
 
 This is my 6th semester final project: a **Habit Tracker mobile application** built using **Flutter** and **Firebase**. The app allows users to track, manage, and improve their daily habits with a simple and user-friendly interface.
 
